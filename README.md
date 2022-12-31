@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recipe using HTML and Git
